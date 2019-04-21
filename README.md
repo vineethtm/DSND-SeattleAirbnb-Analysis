@@ -9,17 +9,22 @@ This Project include the analysis of Airbnb data for Seattle in 2016. Few questi
 
 ## Data
 The data consists three tables
-1. lisings.csv
-2. calendar.csv
-3. reviews.csv
+1. lisings.csv \
+Describe different features of the homes
+2. calendar.csv\
+Describe the availabilty and prices for each day  of 2016
+3. reviews.csv\
+It comprises the reviews received by a listing
+
+## Techniques used
+
+Data preprocessing\
+Data Visualisation- (barplots,boxplots,line plots,heatmaps)\
+Linear Regression\
+Natural Language Processing
 
 ## Libaries Used
 Pandas, numpy, sklearn, seaborn, matplotlib. wordCloud, statsmodels,nltk
 
-## Techniques used
 
-Data preprocessing
-Data Visualisation- (barplots,boxplots,line plots,heatmaps)
-Linear Regression
-Natural Language Processing
 
