@@ -8,6 +8,9 @@ This Project include the analysis of Airbnb data for Seattle in 2016. Few questi
 3. What do people write in the reviews
 
 ## Data
+Data is downloaded from\
+https://www.kaggle.com/airbnb/seattle/data
+
 The data consists three tables
 1. lisings.csv \
 Describe different features of the homes
