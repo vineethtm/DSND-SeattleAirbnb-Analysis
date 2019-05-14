@@ -15,8 +15,8 @@ In the analysis, I'm interested in few questions
    Reviews are very important for hotel rooms. How often Airbnb room get reviews ? Are they Authentic ?
 
 ## Data
-Data is downloaded from
-https://www.kaggle.com/airbnb/seattle/data
+Data is downloaded from \
+https://www.kaggle.com/airbnb/seattle/data \
 It corresponds seattle airbnb data of 2016
 
 The data consists three tables
