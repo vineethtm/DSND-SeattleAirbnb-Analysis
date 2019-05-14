@@ -1,7 +1,12 @@
-# Seattle Airbnb Analysis
+# Project Description
+----
+### Introduction
 
-## Introduction
-This Project include the analysis of Airbnb data for Seattle in 2016. Few questions answered are
+This Project analyses Airbnb data for Seattle in 2016. Aim is to understand
+price, availability,features and recommendations of homes in Seattle
+
+
+Few questions answered are
 
 1. Important features of the homes and hosts 
 2. How do price and availability change over the months
