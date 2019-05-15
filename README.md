@@ -34,7 +34,7 @@ Data Visualisation- (barplots,boxplots,line plots,heatmaps)\
 Linear Regression\
 Natural Language Processing
 
-## Libaries Used
+## Libraries Used
 Pandas, numpy, sklearn, seaborn, matplotlib. wordCloud, statsmodels,nltk
 
 ## Summary
